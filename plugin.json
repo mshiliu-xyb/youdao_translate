@@ -1,0 +1,12 @@
+{
+    "ID":"7A3DE1D7-0F1E-C0C0-38AE-C1AA1F1BCD72",
+    "ActionKeyword":"fy",
+    "Name":"youdao translate",
+    "Description":"youdao en-ch translate",
+    "Author":"YANCJ",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/mshiliu-xyb/youdao_translate",
+    "IcoPath":"images\\yd.png",
+    "ExecuteFileName":"main.py"
+}
